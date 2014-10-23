@@ -13,10 +13,14 @@
 
 <script>
 // storymap_data can be an URL or a Javascript object
-var storymap_data = 'https://c8152cf1a634c5b07baf97fbeceac2ac020728e3.googledrive.com/host/0BwfHFjMZJ9XvWXVtdngyakF6Vms/published.json'; 
+var storymap_data = 'story.json'; 
 
 // certain settings must be passed within a separate options object
-var storymap_options = {};
+var storymap_options = {
+    map_type: "http://{s}.sm.mapstack.stamen.com/((naip,$000[@45],$c29d70[hsl-color@70]),(toner-labels,$fff[difference],$000[@30],$fff[hsl-saturation@30],$c29d70[hsl-color@60])[@60])/{z}/{x}/{y}.png",
+    map_subdomains: "abc",
+    calculate_zoom: false
+};
 
 var storymap = new VCO.StoryMap('mapdiv', storymap_data, storymap_options);
 window.onresize = function(event) {
