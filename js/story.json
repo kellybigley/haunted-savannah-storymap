@@ -1,0 +1,128 @@
+{"storymap":{
+	"call_to_action":true,
+	"call_to_action_text":"",
+	"slides":[
+		{
+			"date":"",
+			"text":{"headline":"Savannah's<br>Most Haunted Places","text":"The charming, southern city of Savannah, Georgia, is considered by many to be the most haunted city in America.  Fueled by some stories that have been told for hundreds of years and even the more recent book and movie, <span style='font-style:italic'>Midnight in the Garden of Good and Evil</span>, visitors tour the city every night with the hopes to witness something spooky."},
+			"media":{"url":"images/colonial-park-cemetery-2.jpg","credit":"Photo by Kelly Bigley","caption":"Colonial Park Cemetery"},
+			"location":{"line":false,"icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"},"type":"overview"
+		},
+		{
+			"date":"",
+			"text":{"headline":"Clary's Cafe","text":"Clary's Cafe, made famous by the movie, is a favorite of the locals for breakfast and one place where you can surely solicit many great stories of local hauntings.  "},
+			"media":{"url":"images/clarys-cafe.jpg","credit":"Photo by Kelly Bigley","caption":"Clary's Cafe"},
+			"location":{"line":false,"icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png","lat":32.071641,"lon":-81.09202800000003,"zoom":16}
+		},
+		{
+			"date":"",
+			"text":{"headline":"Mercer House","text":"The Mercer House was originally owned by General Hugh Mercer, the great-grandfather of singer Johnny Mercer.  Its famous notorious resident, Jim Williams, restored the house and used it for his intenational antique business and would often throw lavish parties.  In 1981, Williams shot a young hustler named Danny Hansford, and the story lives on in the novel and movie, <span style='font-style:italic'>Midnight in the Garden of Good and Evil</span>.  Williams was acquited, but died almost 9 years after the murder.  Since then, many people claim to have witnessed parties happening in the house when noone was home."},
+			"media":{"url":"images/mercer-house.jpg","credit":"Photo by Kelly Bigley","caption":"Mercer House"},
+			"location":{"line":false,"icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png","lat":32.071252,"lon":-81.09540700000002,"zoom":16}
+		},
+		{
+			"date":"",
+			"text":{"headline":"432 Abercorn","text":"The hauntings of 432 Abercorn are hotly debated. &nbsp;The home sits atop a slave cemetery, and hosts one of the more unique ghost stories in the area: one about orb catchers. &nbsp;An orb catcher is the energy manifested when the universe attempts to restore balance between supernatural activity and the natural order to facilitate the crossing over of paranormal energies. This appears as a burst of light and is often times orb shaped. &nbsp;Orb catchers have been witnessed many times at 432 Abercorn, and one witness even been captured one in a photograph. &nbsp;The witness' photograph shows a large orb with illuminated tentacles radiating outward."},
+			"media":{"url":"images/432-abercorn.jpg","credit":"Photo by Kelly Bigley","caption":"432 Abercorn"},
+			"location":{"line":false,"icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png","lat":32.070468,"lon":-81.09200899999996,"zoom":16}
+		},
+		{
+			"date":"",
+			"text":{"headline":"Hamilton Turner Inn","text":"Built in 1873, the Inn was originally constructed after the Civil War by Hamilton Turner.  The Inn is reported to be haunted by a Civil War soldier walking the halls, and has even been sighted at the foot of the bed in the room by a guest who had woken in the middle of the night to shuffling noises in the room.  Other stories tell of sounds of children laughing and balls rolling around on upper floors. "},
+			"media":{"url":"images/hamilton-turner-inn.jpg","credit":"Photo by Kelly Bigley","caption":"Hamilton Turner Inn"},
+			"location":{"line":false,"icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png","lat":32.07262,"lon":-81.09125699999998,"zoom":16}
+		},
+		{
+			"date":"",
+			"text":{"headline":"Andrew Low House","text":"The former home of Juliette Gordon Low and her husband, William, the Andrew Low House is said to be haunted by the former butler, \"Old Tom\".  The sounds of his footsteps are often heard by staff and tourists as they go about in the house museum.  Even the ghost of General Robert E. Lee, a frequent visitor during his lifetime, is reported to have been seen in the house."},
+			"media":{"url":"images/andrew-low-house.jpg","credit":"Photo by Kelly Bigley","caption":"Andrew Low House"},
+			"location":{"line":false,"icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png","lat":32.073011,"lon":-81.092625,"zoom":16}
+		},
+		{
+			"date":"",
+			"text":{"headline":"Sorrel-Weed House","text":"This house has many claims of disembodied voices, and the stories go right along with it.  The home was built by Francis Sorrel in the early 1840's atop the unmarked graves of 1500 Revolutionary War soldiers.  Sorrel's first wife died soon after the construction was complete.  The stories say he married his late wife's sister, but was later caught in an affair with a young slave girl named Molly.  His wife was horrified at her finding and commited suicide by jumping from a balcony of the house.  Soon after, the slave, Molly, hung herself on the grounds.  The stories of the deaths are debated, but many witnesses claim to have felt naseau, panick, and choking sensations in the basement of the home."},
+			"media":{"url":"images/sorrel-weed-house.jpg","credit":"Photo by Kelly Bigley","caption":"Sorrel-Weed House"},
+			"location":{"line":false,"icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png","lat":32.074114,"lon":-81.09402599999999,"zoom":16}
+		},
+		{
+			"date":"",
+			"text":{"headline":"Colonial Park Cemetery","text":"Home to many Voodoo rituals and ceremonies, the cemetery is home to many good stories.  The cemetery has many a mass grave of victims of the Yellow Fever epidemic, and it was used as the grounds for many Duels.  The cemetery is home to one of the more famouse ghosts in Savannah.  Rene Asche Rondolier, a difigured orphan, was accused of murdering two girls whose bodies were found in the cemetery.  He was lynched and left for dead in a nearby swamp, yet more dead bodies turned up in the cemetery many days later.  Many people claimed that Rene's ghost was to blame."},
+			"media":{"url":"images/colonial-park-cemetery.jpg","credit":"Photo by Kelly Bigley","caption":"Colonial Park Cemetery"},
+			"location":{"line":false,"icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png","lat":32.076021,"lon":-81.09035499999999,"zoom":16}
+		},
+		{
+			"date":"",
+			"text":{"headline":"Juliette Gordon Low Birthplace","text":"The birth place of the founder of the Girl Scouts, the Wayne Gordon house is often visited by Girl Scout troops from across the country.  Many believe that Juliett's mother and grandmother haunt the house by playing the piano and sliding down the banister at night.  Some have even reported seeing an apparition during the day time wearing an old fashioned dress."},
+			"media":{"url":"images/juliette-gordon-low-birthplace.jpg","credit":"Photo by Kelly Bigley","caption":"Juliette Gordon Low Birthplace"},
+			"location":{"line":false,"icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png","lat":32.077087,"lon":-81.09240199999999,"zoom":16}
+		},
+		{
+			"date":"",
+			"text":{"headline":"Bradley's Lock and Key","text":"Bradley's Lock and Key is a locksmith shop owned by William Houdini Bradley. &nbsp;Bradley name sake is the Master Illusionist, Harry Houdini, and Bradley's father, Aaron, was very close to the Houdini family.  Aaron was quite the spiritualist and was known to conduct seances in attempt to contact Houdini himself after he died.  Perhaps this is why Bradley's Lock and Key is haunted.  The front door of the shop opens and closes on its own, and perhaps it is Houdini himself coming in and out.  "},
+			"media":{"url":"images/bradleys-lock-and-key.jpg","credit":"Photo by Kelly Bigley","caption":"Bradley's Lock and Key"},
+			"location":{"line":false,"icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png","lat":32.078147,"lon":-81.091364,"zoom":16}
+		},
+		{
+			"date":"",
+			"text":{"headline":"The Marshall House","text":"This hotel was used as a hospital for Federal toops during the Civil War, and is likely the source of several Union soldier ghost sightings throughout the house.  Other's have reported seeing the ghosts of children, and have even claimed the children ghosts like to tickle the feet of sleeping guests. "},
+			"media":{"url":"images/marshall-house.jpg","credit":"Photo by Kelly Bigley","caption":"The Marshall House"},
+			"location":{"line":false,"icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png","lat":32.078393,"lon":-81.090462,"zoom":16}
+		},
+		{
+			"date":"",
+			"text":{"headline":"Owens-Thomas House","text":"At one time the upper floors in the house were used as apartments, and there is more than one account of a strong built middle-aged man dressed in mid-19th century atire appearing at the doorway and moving around the room.  The staff of the now museum has heard footsteps in rooms that sound like tour group stragglers, yet there is noone in the rooms."},
+			"media":{"url":"images/owens-thomas-house.jpg","credit":"Photo by Kelly Bigley","caption":"Owens-Thomas House"},
+			"location":{"line":false,"icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png","lat":32.077408,"lon":-81.08938799999999,"zoom":16}
+		},
+		{
+			"date":"",
+			"text":{"headline":"17 Hundred 90 Inn","text":"Heartbroken and pregnant, Anna Powell committed suicide by jumping out the window of room 204 at the inn.  Her apparition has been seen sitting in the chair by the fireplace of her old room.  She has been known to yank the covers off couples while they are sleeping and toss them into the air.  She likes to collect undergarments and jewelry and hide them in strange places.  One guest found her undergarments hanging on branches of the tree outside the inn."},
+			"media":{"url":"images/17-hundred-90-inn.jpg","credit":"Photo by Kelly Bigley","caption":"17 Hundred 90 Inn"},
+			"location":{"line":false,"icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png","lat":32.076847,"lon":-81.08879300000001,"zoom":16}
+		},
+		{
+			"date":"",
+			"text":{"headline":"Kehoe House","text":"Twin children died in the chimney of this old bed and breakfast, and many say they and haven't left.  Reports of children's voices include the sound of a disembodied child's voice saying 'come play with me'.  A woman was sleeping in one room and woke up to the sensation of small hands stroking her hair and face.  She opened her eyes to the sight of a ghostly little boy eye to eye with her and then quickly vanished. "},
+			"media":{"url":"images/kehoe-house.jpg","credit":"Photo by Kelly Bigley","caption":"Kehoe House"},
+			"location":{"line":false,"icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png","lat":32.077132,"lon":-81.08830899999998,"zoom":16}
+		},
+		{
+			"date":"",
+			"text":{"headline":"Davenport House","text":"This house is host to one of the few four-legged variety of ghosts.  A white and orange tabby cat has been seen many times in many rooms of the house.  It seems the cat likes young children, as witnesses have seen children calling to a cat that noone else can see and even petting the air as if it is a cat."},
+			"media":{"url":"images/davenport-house.jpg","credit":"Photo by Kelly Bigley","caption":"Davenport House"},
+			"location":{"line":false,"icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png","lat":32.077299,"lon":-81.088009,"zoom":16}
+		},
+		{
+			"date":"",
+			"text":{"headline":"Olde Pink House","text":"This restaurant, originally the home of James Habersham, Jr., has many strange happenings throughout.  One server was taking a tablecloth off one of the tables and something tugged back.  She ended up in a tug of war match with something she could not see and lost!  Another server extinguished all the candles in one of the dining rooms, stepped out of the room, and returned to find the candles relit with the smoke still hovering above from when she had blown them out.  The downstairs tavern is perhaps, the most haunted section of the house.  One bartender tells stories of wine bottles coming off the rack on their own behind the bar.  This has been witnessed by others, and the bartender has even been hit with a flying bottle.  Another man, ready to enjoy his drink, raised his glass and toasted with another man at the end of the bar.  After enjoying a sip, looked back to the man, only to find he was no longer there.  Some believe this is the ghost of James Habersham Jr. himself."},
+			"media":{"url":"images/olde-pink-house.jpg","credit":"Photo by Kelly Bigley","caption":"Olde Pink House"},
+			"location":{"line":false,"icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png","lat":32.079689,"lon":-81.08981,"zoom":16}
+		},
+		{
+			"date":"",
+			"text":{"headline":"Moon River Brewing Company","text":"Originally a hotel, the brew company staff have named two ghosts in the building.  Toby lives in the basement, and seems to enjoy wreaking havoc in the offices.  The office manager has had bottles thrown at him in his office.  Mrs Johnson is the ghost that lives in the upper floors and has been seen wearing old style clothing coming up and down the stairs and has even been seen walking up to the bar as if to order a drink, although her body faded out at the arms and legs.  "},
+			"media":{"url":"images/moon-river-brew-co.jpg","credit":"Photo by Kelly Bigley","caption":"Moon River Brewing Co."},
+			"location":{"line":false,"icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png","lat":32.080962,"lon":-81.09203000000002,"zoom":16}
+		},
+		{
+			"date":"",
+			"text":{"headline":"Savannah Cotton Exchange","text":"The Cotton Exchange Tavern has a ghost that still enjoys its coffee right on time.  One bartender recalls a regular patron that came in every morning at the same time to enjoy a cup of coffee.  After he has passed away the bartender still smells fresh coffee at that same time of mornig even though no coffee had been brewed yet and all the pots are clean."},
+			"media":{"url":"images/cotton-exchange.jpg","credit":"Photo by Kelly Bigley","caption":"Cotton Exchange"},
+			"location":{"line":false,"icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png","lat":32.080805,"lon":-81.08849900000001,"zoom":16}
+		},
+		{
+			"date":"",
+			"text":{"headline":"Olde Harbour Inn","text":"The old warehouse caught fire in 1892, and the only fatality was that of an unhappy worker and suspected arsonist named Hank.  Now a hotel, many guests report hearing banging on doors, hearing door knobs turning, and even having an invisible bed mate.  One guest felt the mattress compress beside her, and rolled over assuming it was her husband only to see her husband walking from the bathroom.  Someone was in the bed with her and it was not her husband!  Was it Hank?"},
+			"media":{"url":"images/olde-harbour-inn.jpg","credit":"Photo by Kelly Bigley","caption":"Olde Harbour Inn"},
+			"location":{"line":false,"icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png","lat":32.080028,"lon":-81.08516900000001,"zoom":16}
+		},
+		{
+			"date":"","text":{"headline":"The Pirate's House","text":"Originally a bar and boarding house for sailors, the secret tunnel leading from the rum cellar in the basement was used to capture drunk men and carry them through to the river to force them into service on the ships.  Many people have reported hearing voices and moans originating from the tunnel.  Others have seen 'see through' sailers walking through the rooms of the restaurant."},
+			"media":{"url":"images/pirate-house.jpg","credit":"Photo by Kelly Bigley","caption":"The Pirate's House"},
+			"location":{"line":false,"icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png","lat":32.07813,"lon":-81.08394800000002,"zoom":16}
+		}
+	],
+	"map_type":"http://{s}.sm.mapstack.stamen.com/((naip,$000[@45],$c29d70[hsl-color@70]),(toner-labels,$fff[difference],$000[@30],$fff[hsl-saturation@30],$c29d70[hsl-color@60])[@60])/{z}/{x}/{y}.png",
+	"map_subdomains":"abc"
+	}
+}
