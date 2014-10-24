@@ -1,0 +1,22 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="vco-icon-image"]:after, [class*=" vco-icon-image"]:after {
+    font-family: Flaticon;
+    font-size: 60px;
+    font-style: normal;
+    margin-left: -1px;
+}
+.vco-icon-image:after {
+	content: "\e001";
+}
+.vco-mapmarker-active::after {
+    content: "\e000";
+}
